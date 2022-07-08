@@ -1,0 +1,10 @@
+
+.navbar__menu {
+    display: flex;
+    list-style: none;
+    padding-left: 50px;
+}
+
+.navbar__menu li{
+    padding-left: 50px;
+}
